@@ -1,3 +1,4 @@
+![banner](./banner.png)
 # Hey...!! 👋🏽 soy Davinson vanegas.
 
 ## otro más de sistemas 👨🏽‍💻 apasionado por el mundo de la programación y la tecnología... 💻
@@ -17,6 +18,4 @@ ya que el conocimiento nunca está de más Y gusta estar en constante creciminet
 ![nodo-js](./nodo-js.png)
 ![mysql](./mysql.png)
 ![sql](./sql.png)
-
-![banner](./banner.png)
 
