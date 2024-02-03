@@ -2,8 +2,6 @@
 
 ## otro más de sistemas 👨🏽‍💻 apasionado por el mundo de la programación y la tecnología... 💻
 
-![banner](./banner.jpg)
-
 
 > me destaco por mis ganas insaciables de aprender cada día más e ir aprendiendo de mis errores.📚
 ya que son situaciones de mejora que me haran mejor programador y persona.🤦🏽‍♂️ 
@@ -19,4 +17,6 @@ ya que el conocimiento nunca está de más Y gusta estar en constante creciminet
 ![nodo-js](./nodo-js.png)
 ![mysql](./mysql.png)
 ![sql](./sql.png)
+
+![banner](./banner.png)
 
