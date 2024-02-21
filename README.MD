@@ -3,6 +3,9 @@
 
 ## otro más de sistemas👨🏽‍💻 apasionado por el mundo de la programación y la tecnología... 💻
 
+### 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-dv.netlify.app)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davinson-vanegas/)
+
 ## 🚀 Sobre mi
 > me destaco por mis ganas insaciables de aprender cada día más e ir aprendiendo de mis errores.📚
 ya que son situaciones de mejora que me haran mejor programador y persona.🤦🏽‍♂️ 
@@ -13,8 +16,6 @@ ya que el conocimiento nunca está de más Y gusta estar en constante creciminet
 > Actualmente estoy perfeccionando conocimientos en TS | NODE.JS | EXPRESS | SQL | ASTRO | TAILWIND, pero cabe recalcar que estoy adquiriendo conocimiento continuamente ya que nunca paramos de aprender lenguajes, tecnologías o metodologías para trabajar, 🪐 como lo es en este caso DART | FLUTTER para el desarrollo mobile. 
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-dv.netlify.app)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davinson-vanegas/)
 
 ![js](./js.png)
 ![ts](./ts.png)
