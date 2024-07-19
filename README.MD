@@ -1,4 +1,3 @@
-![banner](./banner.png)
 # Hey...!! 👋🏽 soy Davinson vanegas.
 
 ## otro más de sistemas👨🏽‍💻 apasionado por la tecnología... 💻
